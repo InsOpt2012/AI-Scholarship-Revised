@@ -1,3 +1,5 @@
+Visit my ste here: https://github.com/InsOpt2012/AI-Scholarship-Revised.git
+
 # HTML, CSS, JS (Auto Refresh)
 
 This template is a starter for building a website with HTML, CSS and JS, powered by [Vite](https://vitejs.dev/). HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
