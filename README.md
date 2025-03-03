@@ -1,4 +1,4 @@
-Visit my ste here: https://github.com/InsOpt2012/AI-Scholarship-Revised.git
+Visit my site here: https://github.com/InsOpt2012/AI-Scholarship-Revised.git
 
 # HTML, CSS, JS (Auto Refresh)
 
